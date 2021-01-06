@@ -1,2 +1,3 @@
 textee!
 Entendendo o HEAD
+esta lina foi modificada no ramo leste
