@@ -1,3 +1,4 @@
 textee!
 Entendendo o HEAD
 esta linha foi modificada no ramo Master
+esta lina foi modificada no ramo leste
